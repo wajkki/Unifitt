@@ -3,7 +3,7 @@
   "version": "0.20.3",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
-  "url": "https://github.com/hassio-addons/addon-unifi",
+  "url": "https://github.com/hassio-addons/addon-unifi/tree/v0.20.3/",
   "webui": "https://[HOST]:[PORT:8443]",
   "startup": "services",
   "arch": [
